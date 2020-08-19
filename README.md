@@ -7,8 +7,12 @@
 
 ### Additional Note
  
+ 1)
  ![image](https://user-images.githubusercontent.com/41561652/90605876-ed45a880-e239-11ea-9716-0e902fe48cf7.png)
 
--> CameraActivity의 FTP전송 코드에서 ip주소, 포트번호, 계정 정보 입력하면 해당 서버로 안드로이드에서 촬영한 포즈 좌표가 json 형태로 넘어간다.
+CameraActivity의 FTP전송 코드에서 ip주소, 포트번호, 계정 정보 입력하면 해당 서버로 안드로이드에서 촬영한 포즈 좌표가 json 형태로 넘어간다.
  
+  2) ftp모듈은 ftp4j-1.7.2'를 프로젝트 자체에 받아서 사용함
+  
+  3) 로컬에서 json파일을 만든 후 버튼 이벤트를 통해 서버로 전송하도록 구현
 
