@@ -1,11 +1,10 @@
-# TensorFlow Lite PoseNet Android Demo
+# 안드로이드 pose detection project
 ### Overview
-This is an app that continuously detects the body parts in the frames seen by
- your device's camera. These instructions walk you through building and running
- the demo on an Android device. Camera captures are discarded immediately after
- use, nothing is stored or saved.
-
+1) (https://github.com/tensorflow/examples/tree/master/lite/examples/posenet/android) 를 참고한 프로젝트
+2) andriod를 통해 pose를 detection후 이를 별도 서버로 전송할 수 있도록 버튼 및 ftp모듈 추가
 ![Demo Image](posenetimage.png)
+3) 실시간으로 전송되는 pose 좌표를 다양하게 활용가능 할 것으로 기대
+4) 기본 빌드 과정은 아래와 같음
 
 ## Build the demo using Android Studio
 
