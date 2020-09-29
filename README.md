@@ -4,18 +4,20 @@
 2) andriod를 통해 pose를 detection후 이를 별도 서버로 전송할 수 있도록 버튼 및 ftp모듈 추가
 ![Demo Image](posenetimage.png)
 3) 실시간으로 전송되는 pose 좌표를 다양하게 활용가능 할 것으로 기대
-
+-----------------------------------------------------------------------------------
 ### Architecture
 
 
 1) 전체 설계
+ 
  ![image](https://user-images.githubusercontent.com/41561652/94516669-47865000-0261-11eb-8df1-cf0f2aa2c9a4.png)
 
 2) TLF PoseNet설계
+
 ![image](https://user-images.githubusercontent.com/41561652/94516749-7c92a280-0261-11eb-924b-fe52af27bc98.png)
 
 
-
+------------------------------------------------------------------------------------
 ### Additional Note
 
  1)
