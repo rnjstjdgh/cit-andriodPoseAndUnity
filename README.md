@@ -8,14 +8,15 @@
 ### Architecture
 
 
-### Additional Note
-
 1) 전체 설계
  ![image](https://user-images.githubusercontent.com/41561652/94516669-47865000-0261-11eb-8df1-cf0f2aa2c9a4.png)
 
 2) TLF PoseNet설계
 ![image](https://user-images.githubusercontent.com/41561652/94516749-7c92a280-0261-11eb-924b-fe52af27bc98.png)
 
+
+
+### Additional Note
 
  1)
  ![image](https://user-images.githubusercontent.com/41561652/90605876-ed45a880-e239-11ea-9716-0e902fe48cf7.png)
